@@ -1,0 +1,96 @@
+<html>
+<head> <title>CV</title>
+<style>
+div.container {
+    width: 100%;
+    border: 1px solid gray;
+}
+
+header, footer {
+    padding: 1em;
+    color: white;
+    background-color :black;
+    clear: left;
+    text-align: center;
+}
+
+nav {
+    float: left;
+    max-width: 160px;
+    margin: 0;
+    padding: 1em;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+   
+nav ul a {
+    text-decoration: none;
+}
+
+article {
+    margin-left: 170px;
+    border-left: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
+}
+</style>
+</head>
+<body>
+
+<div class="container">
+
+<header>
+   <h1>Nicat Guliyev</h1>
+</header>
+  
+<img src="../photo/men.jpg"  align="left" height="308" title="Nicat Guliyev">
+<article>
+  <h1>Haqqimda Melumat </h1>
+  <p><h3>01.10.1993 - cu ilde Baki sheherinde anadan olmusham.Ailede 5 neferik.</h3></p>
+  <p> 2011ci ilde herbi xidmete getmisem.</p>
+  <p>Herbi xidmedi bitirdikden sora 2013 cu ilde <b>MC Donalds</b> da ise baslamisam.</p>
+  <p><b>2014</b> cu ilin yanvar ayinda cixmisam,daha sonra ise <b>Zaman Express</b> adli mektub dasima xidmetinde ise baslamisam.</p>
+  <p><b>2015</b> ci ilde E/H az oldugundan isden ayrildim.Daha sora "Motorist komekcisi" kimi islemeye basladim.</p>
+  <p><b>2016</b> ci ilde <b>Araz Marketler Shebekesinde</b> ishe basladim</p>
+</article>
+ 
+
+</div>
+
+    <ul><body><b><h1>Bacariglarim</h1></b></body>
+  <li><i><h2>7 illik Fortepiano Tehsili</h2></i></li>
+  <li><i><h2>9 ay Kick Boxing Mesqleri (4 Yarish ve 4 birincilik qizil Medal)</h2></i></li>
+  <li><i><h2>Psixoloji Tesir qabilliyeti </h2></i></li>
+  <li><i><h2>4 Ay sintezator Telimi</h2></i></li>
+
+</ul> 
+<b><hr></b>
+<b><hr></b>
+
+   </body>
+ <ul><body><b><h1>Hobbi lerim</h1></b></body>
+  <li><i><h2>Hip-Hop ,Rap,Jazz ,RetRo musiqileri dinlemek</h2></i></li>
+  <li><i><h2>Ferdi inkisaf kitablarini oxumaq</h2></i></li>
+  <li><i><h2>Kisa metrajli hekayeler yazmaq</h2></i></li>
+  <li><i><h2>Rap track lere sozler yazmaq</h2></i></li>
+
+</ul>
+<b><hr></b>
+</ul> 
+<b><hr></b>
+
+   </body>
+ 
+ <ul><body><b><h1>Elaqe</h1></b></body>
+</html>
+</html>
+</html></html>  <li><i><h3> Elektron Poct :<a href="https://accounts.google.com">qnicat.p102@code.edu.az</a>
+  <li><i><h2>Mob:0772285434</h2></i></li>
+<b><hr></b>
+<b><hr></b>
+
+</ul>
+</html>
